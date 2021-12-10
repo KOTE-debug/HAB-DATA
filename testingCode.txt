@@ -1,0 +1,3 @@
+import os
+os = os.system("ls")
+print(os)
